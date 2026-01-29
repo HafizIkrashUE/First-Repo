@@ -10,4 +10,5 @@ cout<<"learning programming";
 cout<<"Enter your choice";
 cout<<"Enter your requrirements";
 cout<<"Enter your achievements";
+int val;
 
