@@ -12,4 +12,4 @@ cout<<"Enter your requrirements";
 cout<<"Enter your achievements";
 int val;
 ch a;
-
+a=ikrash;
