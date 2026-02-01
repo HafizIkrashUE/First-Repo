@@ -13,3 +13,5 @@ cout<<"Enter your achievements";
 int val;
 ch a;
 a=ikrash;
+cout<<"Enter the value";
+cin>>val;
