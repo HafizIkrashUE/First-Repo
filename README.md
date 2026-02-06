@@ -26,8 +26,8 @@
 
     <div>
        <ul>
-       <P>Allah Hafiz</P>
-        <p>Goodbye</p>
+       <li>Allah Hafiz</li>
+        <li>Goodbye</li>
         </ul>
     </div>
     <div>
