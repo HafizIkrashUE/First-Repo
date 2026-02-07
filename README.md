@@ -3,44 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>level 3 webpage</title>
+    <title>Education - My Portfolio</title>
+    <meta name="description" content="My educational background including Matric, ICS, and BS Computer Science.">
 </head>
 <body>
-    <header>  
-        <h1>My portfolio</h1>
-    </header>
-    <main> 
-        <section> Education: matric, intermediate,BSCS</section>
-        <section>Experiences: web development</section>
-        <article>
-            <h2>web development journey</h2>
-            <p> I want to be a super software engineer.</p>
-            </article>
-            <a href="https://google.com" target="_main">
-                <img src= "https://cdn2.hubspot.net/hubfs/53/image8-2.jpg" alt="Google" height="100"></a>
-            <aside> this is an ad</aside>
-    <div>
-        <p>div is a container used to store other html elements.</p>
-        <p>Assalamualikum</p>
-    </div>
 
-    <div>
-       <ul>
-       <li>Allah Hafiz</li>
-        <li>Goodbye</li>
-        </ul>
-    </div>
-    <div>
-    <P>
-    I am learning web development.
-    </P>
-    </div>
+<header>
+    <h1>My Education</h1>
+</header>
 
+<section>
+    <article>
+        <h2>Matric</h2>
+        <p>I completed my Matric from Misali Public High School.</p>
+    </article>
 
+    <article>
+        <h2>Intermediate (ICS)</h2>
+        <p>I completed ICS from Abaidullah Group of Colleges.</p>
+    </article>
 
+    <article>
+        <h2>BS Computer Science</h2>
+        <p>I am currently studying BSCS at the University of Education.</p>
+        <p>Also learning web development.</p>
+    </article>
+</section>
 
+<hr>
 
-    </main>
-    <footer><h5>contact me at hafizikrash809@gmail.com</h5></footer>
+<nav>
+    <a href="homepage.html">⬅ Back to Homepage</a>
+</nav>
+
+<footer>
+    <p>&copy; 2026 My Portfolio</p>
+</footer>
+
 </body>
 </html>
