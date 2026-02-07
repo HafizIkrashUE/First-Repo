@@ -3,42 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Education - My Portfolio</title>
-    <meta name="description" content="My educational background including Matric, ICS, and BS Computer Science.">
+    <title>My Portfolio - Homepage</title>
+    <meta name="description" content="Personal portfolio of a BS Computer Science student learning web development.">
 </head>
 <body>
 
-<header>
-    <h1>My Education</h1>
-</header>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>BS Computer Science Student | Web Developer | C++ Programmer</p>
+    </header>
 
-<section>
-    <article>
-        <h2>Matric</h2>
-        <p>I completed my Matric from Misali Public High School.</p>
-    </article>
+    <section>
+        <h2>About Me</h2>
 
-    <article>
-        <h2>Intermediate (ICS)</h2>
-        <p>I completed ICS from Abaidullah Group of Colleges.</p>
-    </article>
+        <!--  Add your own picture here -->
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGMZK1MyFVfSQ/profile-displayphoto-scale_400_400/B4DZru7I8qH0Ag-/0/1764945072970?e=1772064000&v=beta&t=-Mb6NmpN1yEZmHsLtGfiKPEX3UdTjbfRmMeqtLX1Ok0" alt="My Picture" width="200" height="200" style="border-radius:10px;">
 
-    <article>
-        <h2>BS Computer Science</h2>
-        <p>I am currently studying BSCS at the University of Education.</p>
-        <p>Also learning web development.</p>
-    </article>
-</section>
+        <p>Hello! I am a BSCS student and I am learning full stack web development.  
+           This website showcases my education, experience, and projects.</p>
+    </section>
 
-<hr>
+    <nav>
+        <h2>Navigate to:</h2>
+        <ul>
+            <li><a href="education.html">Education Details</a></li>
+            <li><a href="experience.html">Experience Details</a></li>
+            <li><a href="projects.html">Projects Details</a></li>
+        </ul>
+    </nav>
 
-<nav>
-    <a href="homepage.html">⬅ Back to Homepage</a>
-</nav>
-
-<footer>
-    <p>&copy; 2026 My Portfolio</p>
-</footer>
+    <footer>
+        <p>&copy; 2026 My Portfolio. All Rights Reserved.</p>
+    </footer>
 
 </body>
 </html>
