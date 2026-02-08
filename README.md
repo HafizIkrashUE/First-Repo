@@ -10,7 +10,7 @@
 
     <header>
         <h1>Welcome to My Portfolio</h1>
-        <p>BS Computer Science Student | Web Developer | C++ Programmer</p>
+        <p>BS Computer Science Student | Web Developer | C++ Programmer | OOPS</p>
     </header>
 
     <section>
