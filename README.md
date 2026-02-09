@@ -19,7 +19,7 @@
         <!--  Add your own picture here -->
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQGMZK1MyFVfSQ/profile-displayphoto-scale_400_400/B4DZru7I8qH0Ag-/0/1764945072970?e=1772064000&v=beta&t=-Mb6NmpN1yEZmHsLtGfiKPEX3UdTjbfRmMeqtLX1Ok0" alt="My Picture" width="200" height="200" style="border-radius:10px;">
 
-        <p>Hello! I am a BSCS student and I am learning full stack web development.  
+        <p>Hello! I am a BS Computer Science student and I am learning full stack web development.  
            This website showcases my education, experience, and projects.</p>
     </section>
 
