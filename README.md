@@ -24,7 +24,7 @@
     </section>
 
     <nav>
-        <h2>Navigate to:</h2>
+        <h2>Navigate to the :</h2>
         <ul>
             <li><a href="education.html">Education Details</a></li>
             <li><a href="experience.html">Experience Details</a></li>
