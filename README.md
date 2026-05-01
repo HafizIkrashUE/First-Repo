@@ -13,7 +13,7 @@
 
         body {
             background: #f4f7fb;
-            color: #333;
+            color: #323;
         }
 
         /* Navbar */
